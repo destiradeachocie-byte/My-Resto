@@ -1,0 +1,12 @@
+.banner{
+    height: 100vh;
+    background: linear-gradient(rgba(0,0,0,0.4)),url(sate.jpg);
+    background-size: cover;
+    background-color: cover;
+    background-position: center;
+}
+.card:hover {
+    transform: scale(1.05);
+    transition: 0.3s;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
